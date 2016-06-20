@@ -1,5 +1,5 @@
 ﻿
-﻿**sintaxis en caso se considere pertinente trabajar con una regresión logística: 
+﻿**sintaxis para trabajar con una regresión logística: 
 ﻿
 DATASET ACTIVATE Conjunto_de_datos4.
 LOGISTIC REGRESSION VARIABLES Segundavuelta
