@@ -3,7 +3,7 @@ La información consignada en la base de datos corresponde a un estudio que inte
 
 VARIABLES PSICOLÓGICAS
 
-* Individualismo: Esta escala intenta medir la dimensión individualista en la construcción del self, vista desde los estudios de Hazel Markus y Shinobu Kitayama. En esta escala, una mayor presencia del constructo corresponde a un puntaje más alto en la escala. Se considera que obtener mayores niveles en la escala aumenta la probabilidad de votar por PPK
+* Individualismo: Esta escala intenta medir la dimensión individualista en la construcción del self, vista desde los estudios de Hazel Markus y Shinobu Kitayama. En esta escala, una mayor presencia del constructo corresponde a un puntaje más alto en la escala. Se considera que obtener mayores niveles en la escala aumenta la probabilidad de votar por PPK.
 
 
 VARIABLES DEMOGRÁFICAS
@@ -12,7 +12,7 @@ VARIABLES DEMOGRÁFICAS
 
 * Residencia: Indica el lugar donde reside el participante. Se espera que quienes vivan en Lima Metropolitana sea quienes hayan votado por PPK. 
 
-* NSE: Identificación del participante por un nivel socioeconómico. Se considera que considerarse como parte de los NSE más altos aumenta la probabilidad de haber votado por PPK. 
+* NSE: Identificación del participante por un nivel socioeconómico. Se cree que considerarse como parte de los NSE más altos aumenta la probabilidad de haber votado por PPK. 
 
 
 INFORMACIÓN DE CONDUCTA DE VOTO PREVIO
@@ -22,7 +22,7 @@ INFORMACIÓN DE CONDUCTA DE VOTO PREVIO
 
 PARTICIPACIÓN EN POLÍTICA 
 
-* Actividad: Registra el número de veces que los encuestados pudieron participar en actividades políticas en los últimos 5 años. Se sabe que esta variable impacta en la conducta de voto actual; sin embargo, se desconoce cómo sería este. 
+* Actividad: Registra el número de veces que los encuestados participaron en actividades políticas en los últimos 5 años. Se sabe que esta variable impacta en la conducta de voto actual; sin embargo, se desconoce cómo sería este. 
 
 * No a Keiko: Registra si el participante ha participado en algún mitin, movilización o manifestación de la organización No a Keiko. Se considera que haber participado en ellas generaría una mayor probabilidad de votar por PPK.
 
