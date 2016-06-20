@@ -3,7 +3,7 @@ La información consignada en la base de datos corresponde a un estudio que inte
 
 VARIABLES PSICOLÓGICAS
 
-* Individualismo: Esta escala intenta medir la dimensión de individualista en la construcción del self, vista desde los estudios de Hazel Markus y Shinobu Kitayama. En esta escala, una mayor presencia del constructo corresponde a un puntaje más alto en la escala. Se considera que obtener mayores niveles en la escala aumenta la probabilidad de votar por PPK
+* Individualismo: Esta escala intenta medir la dimensión individualista en la construcción del self, vista desde los estudios de Hazel Markus y Shinobu Kitayama. En esta escala, una mayor presencia del constructo corresponde a un puntaje más alto en la escala. Se considera que obtener mayores niveles en la escala aumenta la probabilidad de votar por PPK
 
 
 VARIABLES DEMOGRÁFICAS
