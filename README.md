@@ -1,4 +1,4 @@
-Instrucciones para el trabajo final
+Instrucciones para el Trabajo Final
 
 En este repositorio podrán encontrar las bases de datos, indicaciones y ejercicios de prueba para el trabajo final del curso de Estadística II. 
 
