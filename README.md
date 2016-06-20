@@ -13,3 +13,4 @@ La carpeta de trabajo deberá contener lo siguiente:
 
 Además de subirlo a Github, deberán mandar todos los archivos vía correo electrónico a c.diazm@pucp.pe. el plazo máximo es el jueves 7 de julio hasta las 23:59 hrs. 
 
+Suerte!
