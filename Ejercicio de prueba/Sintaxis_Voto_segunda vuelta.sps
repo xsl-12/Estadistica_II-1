@@ -1,6 +1,6 @@
-﻿
+
 ﻿**sintaxis para trabajar con una regresión logística: 
-﻿
+
 DATASET ACTIVATE Conjunto_de_datos4.
 LOGISTIC REGRESSION VARIABLES Segundavuelta
   /METHOD=ENTER Individualismo Edad Residencia NSE Primeravuelta Actividad NoaKeiko MitinNoaKeiko 
