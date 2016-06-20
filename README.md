@@ -7,12 +7,11 @@ Sobre este trabajo es importante mencionar lo siguiente:
 - El trabajo será desarrollado en grupos de 4 personas
 - Cada grupo recibirá una base de datos, la cual deberá ser trabajada por todos los miembros del grupo. La división del trabajo queda a cargo del grupo. Se recomienda dividir el análisis de manera que se tenga un responsable por cada parte del mismo. A pesar de ello, todos los miembros del grupo deben revisar todo el trabajo. 
 
-La carpeta de trabajo deberá contener lo siguiente: 
-- Base de datos trabajada
-- Sintaxis con los análisis realizados 
-- Archivo excel con las tablas pegadas e interpretadas 
-- Archivo md, el cual debe tener las secciones del análisis y las conclusiones principales de cada una de ellas, así como una conclusión principal. Cada sección del análisis tendrá un responsable, el cual deberá ser quien consigne la información en el archivo. Los demás miembros del grupo podrán modificar, sobre la base de lo escrito por el responsable, cualquier parte de este archivo. 
+La carpeta de trabajo contiene lo siguiente: 
+- Base de datos: la cual, una vez trabajada por el grupo, deberá ser enviada vía correo electrónico 
+- Archivo excel con las tablas pegadas e interpretadas, la cual también deberá ser enviada por correo
+- Archivo md, el cual debe tener las secciones del análisis y las conclusiones principales de cada una de ellas, así como una conclusión final. Cada sección del análisis tendrá un responsable, el cual deberá ser quien consigne la información en el archivo md vía github. Los demás miembros del grupo podrán modificar, sobre la base de lo escrito por el responsable, cualquier parte de este archivo. 
 
-Además de subirlo a Github, deberán mandar todos los archivos vía correo electrónico a c.diazm@pucp.pe. el plazo máximo es el jueves 7 de julio hasta las 23:59 hrs. 
+Toda modificación del archivo MD (via Github) y los archivos (vía correo electrónico a c.diazm@pucp.pe) deberán ser enviados hasta el día jueves 7 de julio hasta las 23:59 hrs. 
 
 Suerte!
