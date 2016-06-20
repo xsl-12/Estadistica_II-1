@@ -42,4 +42,4 @@ INTERÉS EN POLÍTICA
 * Impacto: Percepción sobre el valor del voto del participante en las elecciones. Así, se espera que el considerar que su voto es determinante aumenta la probabilidad de votar por PPK. 
 
 
-Determine qué análisis estadístico es necesario para lograr el objetivo de la investigación. Luego, realícelo resolviendo las hipótesis planteadas. 
+Determine qué análisis estadístico es necesario para lograr el objetivo de la investigación. Luego, realice el análisis de manera que se contrasten las hipótesis planteadas. 
