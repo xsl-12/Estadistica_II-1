@@ -33,6 +33,12 @@ PARTICIPACIÓN EN POLÍTICA
 
 INTERÉS EN POLÍTICA
 
-* Interés: 
+* Interés: Recoge el nivel de interés que el encuestado tiene en la política. En este caso, se espera que el interés no tenga impacto en el voto realizado. 
+
+* Amigos interés: Indica la percepción de los participantes sobre el interés en la política que perciben en sus amigos más cercanos. Tampoco se espera que esta variable genere impacto en el voto realizado. 
+
+* Familia interés: Percepción del participante sobre si la política es un tema de interés para su familia. La hipótesis de la variable es similar a las dos anteriores. 
+
+* Impacto: Percepción sobre el valor del voto del participante en las elecciones. Así, se espera que el considerar que su voto es determinante aumenta la probabilidad de votar por PPK. 
 
 
