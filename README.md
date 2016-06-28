@@ -10,7 +10,7 @@ Sobre este trabajo es importante mencionar lo siguiente:
 La carpeta de trabajo contiene lo siguiente: 
 - Base de datos: la cual, una vez trabajada por el grupo, deberá ser enviada vía correo electrónico 
 - Archivo excel con las tablas pegadas e interpretadas, la cual también deberá ser enviada por correo
-- Archivo md, el cual debe tener las secciones del análisis y las conclusiones principales de cada una de ellas, así como una conclusión final. Cada sección del análisis tendrá un responsable, el cual deberá ser quien consigne la información en el archivo md vía github. Los demás miembros del grupo podrán modificar, sobre la base de lo escrito por el responsable, cualquier parte de este archivo. 
+- Archivo md, el cual debe tener las secciones del análisis y las conclusiones principales de cada una de ellas, así como una conclusión final. Cada sección del análisis tendrá un responsable, el cual deberá ser quien consigne la información en el archivo md vía github. Los demás miembros del grupo podrán modificar, sobre la base de lo escrito por el responsable, cualquier parte de este archivo. Al final del archivo, como fuente de verificación, indicar la forma de distribución del trabajo y el responsable de cada parte.
 
 Toda modificación del archivo MD (via Github) y los archivos (vía correo electrónico a c.diazm@pucp.pe) deberán ser enviados hasta el día domingo 10 de julio hasta las 23:59 hrs. 
 
