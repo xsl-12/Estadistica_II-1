@@ -12,6 +12,6 @@ La carpeta de trabajo contiene lo siguiente:
 - Archivo excel con las tablas pegadas e interpretadas, la cual también deberá ser enviada por correo
 - Archivo md, el cual debe tener las secciones del análisis y las conclusiones principales de cada una de ellas, así como una conclusión final. Cada sección del análisis tendrá un responsable, el cual deberá ser quien consigne la información en el archivo md vía github. Los demás miembros del grupo podrán modificar, sobre la base de lo escrito por el responsable, cualquier parte de este archivo. 
 
-Toda modificación del archivo MD (via Github) y los archivos (vía correo electrónico a c.diazm@pucp.pe) deberán ser enviados hasta el día jueves 7 de julio hasta las 23:59 hrs. 
+Toda modificación del archivo MD (via Github) y los archivos (vía correo electrónico a c.diazm@pucp.pe) deberán ser enviados hasta el día domingo 10 de julio hasta las 23:59 hrs. 
 
 Suerte!
